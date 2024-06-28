@@ -1,0 +1,10 @@
+ ABC Kirana Store
+The price of item 1 is 232
+The price of item 2 is 1213
+The price of item 3 is 5454
+The price of item 4 is 1215
+The price of item 5 is 458489
+The price of item 6 is 4858
+The total sum of all the items is : 471461
+Thank you for shopping with us have a good day ! 
+Please Visit us Again

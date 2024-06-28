@@ -1,5 +1,25 @@
+# On remote
+1st a remote repository is created in github
+2nd the link of remote repo created is copied using http
+3rd we move on to Local
+
+
+# On Local
+cd ==> to change directory
+cd.. ==>to come out of current directory
+1st we need to clone remote repo onto local repo (git clone <link of remote repo copied>)
+
+we create a file using mkdir <folder name>
+
 1st step is when a file is created in local repo then ==> we must 1st add it  (git add .) to add all the files or (git add <filename>)
 2nd need to check status (git status)
 2nd then we need to commit it by giving proper message (git commit -m"A valid message regarding changes done in the file")
 3rd we need to check status (git status)
 4th we need to push it on to remote (git push origin main)
+
+git init #used to create a new repo on local
+git remote add orgin <link of remote repo copied in case thought of creating different repo or else existing repo link can also be used here>
+git remote -v #to verify remote
+git branch #to check branch
+git branch -M main # to rename branch to main (main should be used as default as per git standards)
+git push -u origin main # if u are working on same file and donot wish to type complete command we can make use of -u so that from next time onwards we can make use of only git push ==> every time it pushes on to origin main

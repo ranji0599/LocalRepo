@@ -1,0 +1,11 @@
+git hub repo
+    |
+  clone
+    |
+changes
+    |
+   add
+    |
+  commit
+    |
+   push

@@ -1,1 +1,5 @@
-# This is a file in local repo
+1st step is when a file is created in local repo then ==> we must 1st add it  (git add .) to add all the files or (git add <filename>)
+2nd need to check status (git status)
+2nd then we need to commit it by giving proper message (git commit -m"A valid message regarding changes done in the file")
+3rd we need to check status (git status)
+4th we need to push it on to remote (git push origin main)
